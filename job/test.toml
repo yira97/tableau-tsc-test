@@ -1,0 +1,9 @@
+[[task]]
+type = "create-workbook-from-csv"
+project = "bingo"
+workbook = "test111"
+
+[[task.csv]]
+a = "theme_iap.csv"
+b = "user_step_data.csv"
+
